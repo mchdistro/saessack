@@ -23,8 +23,8 @@
       "mainServer": true,
       "autoconnect": true,
       "javaOptions": {
-        "supported": "=>21",
-        "suggestedMajor": 21,
+        "supported": "=>23",
+        "suggestedMajor": 23,
         "platformOptions": [
           {
             "platform": "win32",
@@ -158,6 +158,26 @@
             "size": 4038545,
             "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/journeymap-fabric-26.1.2-6.0.0-beta.76.jar",
             "MD5": "0586e2788c03275eea16c7eb4e851c5f"
+          }
+        },
+        {
+          "id": "dev.erudites.mods:koreanify:0.1.4+mc26.1.2@jar",
+          "name": "Koreanify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 53124,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/koreanify-fabric-0.1.4+mc26.1.2.jar",
+            "MD5": "385e5fa1b60b088b34ddca232ad0537e"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.9@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12139804,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/plasmovoice-fabric-26.1-2.1.9.jar",
+            "MD5": "8e12415087334e71cbd7cd86d067f80e"
           }
         },
         {

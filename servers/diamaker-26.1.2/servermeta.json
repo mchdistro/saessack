@@ -14,8 +14,8 @@
     "mainServer": true,
     "autoconnect": true,
     "javaOptions": {
-      "supported": "=>21",
-      "suggestedMajor": 21,
+      "supported": "=>23",
+      "suggestedMajor": 23,
       "platformOptions": [
         {
           "platform": "win32",
