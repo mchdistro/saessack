@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/saessack/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "saessack (Minecraft 1.21.11)",
+    "name": "다이아메이커",
     "description": "Minecraft 1.21.11 (Fabric v0.19.2)",
     "icon": "https://github.com/mchdistro/saessack/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:20202",

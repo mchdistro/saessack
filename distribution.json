@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "diamaker-1.21.11",
-      "name": "saessack (Minecraft 1.21.11)",
+      "name": "다이아메이커",
       "description": "Minecraft 1.21.11 (Fabric v0.19.2)",
       "icon": "https://github.com/mchdistro/saessack/raw/main/server-icon.png",
       "version": "1.0.0",
@@ -208,6 +208,27 @@
             "size": 80290,
             "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/trashslot-fabric-1.21.11-21.11.4.jar",
             "MD5": "104ba15e132fd8e94578ceb9640280b1"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 248,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/files/servers.dat",
+            "MD5": "7802c737b30a349a4ba877191af2a6d3",
+            "path": "servers.dat"
           }
         }
       ]
