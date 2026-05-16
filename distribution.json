@@ -151,6 +151,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:2.0.4@jar",
+          "name": "GTNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 109113,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/gtnick-fabric-1.21.11-2.0.4.jar",
+            "MD5": "fda527cffab14e556ea4e1e6cc138eb7"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.10.7+mc1.21.11@jar",
           "name": "Iris",
           "type": "FabricMod",
