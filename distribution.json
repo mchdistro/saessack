@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "diamaker-1.21.11",
+      "id": "diamaker_260516-1.21.11",
       "name": "다이아메이커",
       "description": "Minecraft 1.21.11 (Fabric v0.19.2)",
       "icon": "https://github.com/mchdistro/saessack/raw/main/server-icon.png",
@@ -136,8 +136,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 873056,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/balm-fabric-1.21.11-21.11.9.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/balm-fabric-1.21.11-21.11.9.jar",
             "MD5": "f0078c1ac352a6ccf474402f803f6e42"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.1-beta.1+1.21.11@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 997125,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/continuity-3.0.1-beta.1+1.21.11.jar",
+            "MD5": "d0011d547cfb5428b25071a2b518a776"
           }
         },
         {
@@ -146,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2413332,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/fabric-api-0.141.4+1.21.11.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/fabric-api-0.141.4+1.21.11.jar",
             "MD5": "5aeec6148c885849936a152bf4683c6d"
           }
         },
@@ -156,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 109113,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/gtnick-fabric-1.21.11-2.0.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/gtnick-fabric-1.21.11-2.0.4.jar",
             "MD5": "fda527cffab14e556ea4e1e6cc138eb7"
           }
         },
@@ -166,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2807547,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/iris-fabric-1.10.7+mc1.21.11.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/iris-fabric-1.10.7+mc1.21.11.jar",
             "MD5": "5a7742b06041a0a98aa5df00ec8ce9a9"
           }
         },
@@ -176,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4041621,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/journeymap-fabric-1.21.11-6.0.0-beta.74.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/journeymap-fabric-1.21.11-6.0.0-beta.74.jar",
             "MD5": "f0ded68678fe7450c19f215822a57e78"
           }
         },
@@ -186,7 +196,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 652311,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.11.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.11.jar",
             "MD5": "279717a521c4aa2cf450275220a985b7"
           }
         },
@@ -196,7 +206,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12240297,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.9.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.9.jar",
             "MD5": "e83edeeddb6a9213c142f570b3800830"
           }
         },
@@ -206,7 +216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1906669,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/sodium-fabric-0.8.12-beta.2+mc1.21.11.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/sodium-fabric-0.8.12-beta.2+mc1.21.11.jar",
             "MD5": "497f4af5bb953f3a48cebdbd6409cdbc"
           }
         },
@@ -216,7 +226,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80290,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/fabricmods/required/trashslot-fabric-1.21.11-21.11.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/fabricmods/required/trashslot-fabric-1.21.11-21.11.4.jar",
             "MD5": "104ba15e132fd8e94578ceb9640280b1"
           }
         },
@@ -225,8 +235,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 248,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/files/options.txt",
+            "size": 332,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -236,204 +246,64 @@
           "type": "File",
           "artifact": {
             "size": 84,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-1.21.11/files/servers.dat",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/servers.dat",
             "MD5": "7802c737b30a349a4ba877191af2a6d3",
             "path": "servers.dat"
           }
-        }
-      ]
-    },
-    {
-      "id": "diamaker-26.1.2",
-      "name": "다이아메이커",
-      "description": "Minecraft 26.1.2 (Fabric v0.19.2)",
-      "icon": "https://github.com/mchdistro/saessack/raw/main/server-icon.png",
-      "version": "1.0.0",
-      "address": "mc.gotiger.dev:20202",
-      "minecraftVersion": "26.1.2",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": true,
-      "autoconnect": true,
-      "javaOptions": {
-        "supported": "25",
-        "suggestedMajor": 25,
-        "platformOptions": [
-          {
-            "platform": "win32",
-            "architecture": "x64",
-            "distribution": "TEMURIN"
-          }
-        ],
-        "ram": {
-          "minimum": 4096,
-          "recommended": 8192
-        }
-      },
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.19.2",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1968930,
-            "MD5": "d692407a67129e913b4210218edebb20",
-            "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/net/fabricmc/fabric-loader/0.19.2/fabric-loader-0.19.2.jar"
-          },
-          "subModules": [
-            {
-              "id": "26.1.2-fabric-0.19.2",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2767,
-                "MD5": "ce4a45339f30043a806061d656808941",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/versions/26.1.2-fabric-0.19.2/26.1.2-fabric-0.19.2.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.9",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126122,
-                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.9",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35149,
-                "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.9",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 74348,
-                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.9",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51947,
-                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.9",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94565,
-                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.17.2+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1540039,
-                "MD5": "4b6b96074976cc7aa096b9e569ca623e",
-                "url": "https://github.com/mchdistro/saessack/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar"
-              }
-            }
-          ]
         },
         {
-          "id": "net.blay09.mods:balm:26.1.2.6@jar",
-          "name": "Balm",
-          "type": "FabricMod",
+          "id": "AstraLex_v93.0.zip",
+          "name": "AstraLex_v93.0.zip",
+          "type": "File",
           "artifact": {
-            "size": 1052063,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/balm-fabric-26.1.2-26.1.2.6.jar",
-            "MD5": "bc753da7839613270ced8a57652fa560"
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/shaderpacks/AstraLex_v93.0.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/AstraLex_v93.0.zip"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.148.2+26.1.2@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
+          "id": "BSL_v10.1.3.zip",
+          "name": "BSL_v10.1.3.zip",
+          "type": "File",
           "artifact": {
-            "size": 2447818,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/fabric-api-0.148.2+26.1.2.jar",
-            "MD5": "ae2296150b874c5b6b695b21bd5048c8"
+            "size": 1127026,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/shaderpacks/BSL_v10.1.3.zip",
+            "MD5": "324f09c3d1c736576a09782ff75c2f68",
+            "path": "shaderpacks/BSL_v10.1.3.zip"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.10.9+mc26.1.1@jar",
-          "name": "Iris",
-          "type": "FabricMod",
+          "id": "ComplementaryReimagined_r5.8.zip",
+          "name": "ComplementaryReimagined_r5.8.zip",
+          "type": "File",
           "artifact": {
-            "size": 2803860,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/iris-fabric-1.10.9+mc26.1.1.jar",
-            "MD5": "0037a947d04dd252c4348c16d271c6b2"
+            "size": 544613,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/shaderpacks/ComplementaryReimagined_r5.8.zip",
+            "MD5": "0381d3edc70f1d90cc2591d427d75065",
+            "path": "shaderpacks/ComplementaryReimagined_r5.8.zip"
           }
         },
         {
-          "id": "journeymap:journeymap:26.1.2-6.0.0-beta.76@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
+          "id": "ComplementaryUnbound_r5.8.zip",
+          "name": "ComplementaryUnbound_r5.8.zip",
+          "type": "File",
           "artifact": {
-            "size": 4038545,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/journeymap-fabric-26.1.2-6.0.0-beta.76.jar",
-            "MD5": "0586e2788c03275eea16c7eb4e851c5f"
+            "size": 544616,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/shaderpacks/ComplementaryUnbound_r5.8.zip",
+            "MD5": "8427382edf6ea7e37e58e5a470f6d79a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.8.zip"
           }
         },
         {
-          "id": "dev.erudites.mods:koreanify:0.1.4+mc26.1.2@jar",
-          "name": "Koreanify",
-          "type": "FabricMod",
+          "id": "MakeUp-UltraFast-9.5a.zip",
+          "name": "MakeUp-UltraFast-9.5a.zip",
+          "type": "File",
           "artifact": {
-            "size": 53124,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/koreanify-fabric-0.1.4+mc26.1.2.jar",
-            "MD5": "385e5fa1b60b088b34ddca232ad0537e"
-          }
-        },
-        {
-          "id": "su.plo.voice:plasmovoice:2.1.9@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12139804,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/plasmovoice-fabric-26.1-2.1.9.jar",
-            "MD5": "8e12415087334e71cbd7cd86d067f80e"
-          }
-        },
-        {
-          "id": "net.caffeinemc.mods:sodium:0.8.12-beta.2+mc26.1.2@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1848319,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/sodium-fabric-0.8.12-beta.2+mc26.1.2.jar",
-            "MD5": "cc9a1bf49c22227292e39aa5fc3d53e3"
-          }
-        },
-        {
-          "id": "net.blay09.mods:trashslot:26.1.2.2@jar",
-          "name": "TrashSlot",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 148487,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker-26.1.2/fabricmods/required/trashslot-fabric-26.1.2-26.1.2.2.jar",
-            "MD5": "dbc1c6ef14d6fa3f4bd791cf894d7804"
+            "size": 398018,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_260516-1.21.11/files/shaderpacks/MakeUp-UltraFast-9.5a.zip",
+            "MD5": "5fa96c6d7dc35b40d93826c030e540bf",
+            "path": "shaderpacks/MakeUp-UltraFast-9.5a.zip"
           }
         }
       ]
