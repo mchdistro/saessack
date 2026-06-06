@@ -141,16 +141,6 @@
           }
         },
         {
-          "id": "net.blay09.mods:balm:21.4.41@jar",
-          "name": "Balm",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 599615,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/balm-fabric-1.21.4-21.4.41.jar",
-            "MD5": "111978e3b35ab07a86bcb8bde78d6c1c"
-          }
-        },
-        {
           "id": "me.pepperbell:continuity:3.0.0+1.21.4@jar",
           "name": "Continuity",
           "type": "FabricMod",
@@ -228,16 +218,6 @@
             "size": 1306799,
             "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
-          }
-        },
-        {
-          "id": "net.blay09.mods:trashslot:21.4.5@jar",
-          "name": "TrashSlot",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 129836,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/trashslot-fabric-1.21.4-21.4.5.jar",
-            "MD5": "6f3d9576f7e2a3f91da08e922f58006d"
           }
         },
         {
