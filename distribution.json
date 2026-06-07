@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "diamaker_test-1.21.4",
+      "id": "diamaker_v1-1.21.4",
       "name": "다이아메이커",
       "description": "Minecraft 1.21.4 (Fabric v0.19.2)",
       "icon": "https://github.com/mchdistro/saessack/raw/main/server-icon.png",
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 376047,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
             "MD5": "3c220399e5c34dae32224818c7acaa6c"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1001061,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/continuity-3.0.0+1.21.4.jar",
             "MD5": "cb5480ac95db653d5376ec1b41797b56"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -176,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104906,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
             "MD5": "c515eadc754ec9a09893d2bfc06a6aff"
           }
         },
@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -196,7 +196,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514383,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
@@ -206,7 +206,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 595769,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
             "MD5": "f5c52ca25f04821fd25a205fa870e1bf"
           }
         },
@@ -216,7 +216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12262201,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.9.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.9.jar",
             "MD5": "f2110c9358f3e5886246bf5030e10dd6"
           }
         },
@@ -226,7 +226,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -236,7 +236,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -246,7 +246,7 @@
           "type": "File",
           "artifact": {
             "size": 2689,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
         },
@@ -256,7 +256,7 @@
           "type": "File",
           "artifact": {
             "size": 2299,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
         },
@@ -266,7 +266,7 @@
           "type": "File",
           "artifact": {
             "size": 5310,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/options.txt",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -276,7 +276,7 @@
           "type": "File",
           "artifact": {
             "size": 84,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/servers.dat",
             "MD5": "7802c737b30a349a4ba877191af2a6d3",
             "path": "servers.dat"
           }
@@ -287,7 +287,7 @@
           "type": "File",
           "artifact": {
             "size": 3184524,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/shaderpacks/AstraLex_v93.0.zip",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/shaderpacks/AstraLex_v93.0.zip",
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/AstraLex_v93.0.zip"
           }
@@ -298,7 +298,7 @@
           "type": "File",
           "artifact": {
             "size": 1127026,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/shaderpacks/BSL_v10.1.3.zip",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/shaderpacks/BSL_v10.1.3.zip",
             "MD5": "324f09c3d1c736576a09782ff75c2f68",
             "path": "shaderpacks/BSL_v10.1.3.zip"
           }
@@ -309,7 +309,7 @@
           "type": "File",
           "artifact": {
             "size": 544613,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.8.zip",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.8.zip",
             "MD5": "0381d3edc70f1d90cc2591d427d75065",
             "path": "shaderpacks/ComplementaryReimagined_r5.8.zip"
           }
@@ -320,7 +320,7 @@
           "type": "File",
           "artifact": {
             "size": 507,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.8.zip.txt",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.8.zip.txt",
             "path": "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
           }
         },
@@ -330,7 +330,7 @@
           "type": "File",
           "artifact": {
             "size": 544616,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.8.zip",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.8.zip",
             "MD5": "8427382edf6ea7e37e58e5a470f6d79a",
             "path": "shaderpacks/ComplementaryUnbound_r5.8.zip"
           }
@@ -341,7 +341,7 @@
           "type": "File",
           "artifact": {
             "size": 398018,
-            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/shaderpacks/MakeUp-UltraFast-9.5a.zip",
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_v1-1.21.4/files/shaderpacks/MakeUp-UltraFast-9.5a.zip",
             "MD5": "5fa96c6d7dc35b40d93826c030e540bf",
             "path": "shaderpacks/MakeUp-UltraFast-9.5a.zip"
           }
