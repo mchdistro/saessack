@@ -141,6 +141,16 @@
           }
         },
         {
+          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.2@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11418,
+            "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
+          }
+        },
+        {
           "id": "me.pepperbell:continuity:3.0.0+1.21.4@jar",
           "name": "Continuity",
           "type": "FabricMod",
@@ -255,7 +265,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1199,
+            "size": 5310,
             "url": "https://github.com/mchdistro/saessack/raw/main/servers/diamaker_test-1.21.4/files/options.txt",
             "path": "options.txt"
           }
